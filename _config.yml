@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Monos
+title: Rap Score Generation
 email: enmlp2021@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Themed by emnlp-demo
+  This is a Rap Score Generation demo
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://emnlp-demo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: emnlp-demo
@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
 category_dir: category/
 tag_dir: tag/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
