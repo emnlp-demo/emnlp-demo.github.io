@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Rap sample 3"
+categories: demos
+---
+<div style="align: center">
+<img src="/public/img/demo2.png" alt="demo" style="zoom:20%;" />
+</div>
