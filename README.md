@@ -9,4 +9,5 @@ permalink: /about/
 
 ### Screenshots
 #### Rap Scores
-![alt text](/public/img/demo1.png)
+
+<img src="/public/img/demo1.png" alt="alt text" style="zoom:50%;" />
