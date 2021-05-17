@@ -4,6 +4,6 @@ title:  "Rap sample 5"
 categories: demos
 ---
 <div style="align: center">
-<img src="/public/img/demo5.png" alt="demo" style="zoom:80%;" />
+<img src="/public/img/demo5.png" alt="demo" style="zoom:70%;" />
 </div>
 
